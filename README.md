@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**s0d-d/s0d-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Developer / CS Student at [ELTE](https://www.elte.hu/en/)<br>
 
-Here are some ideas to get you started:
+Interests: 
+  - MLOps, Deep Learning, Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+  - Front-end (React.js, Next.js)
+  - Back-end (Node.js, Python, Java)
+  - Databases (MongoDB)
+  - DevOps (Docker, Kubernetes, Linux, Git)
+  - Networking (Asterisk)
+  - Healthcare (FHIR standard)
+
+Projects:
+  - [Chatbot with custom knowledge (RAG system using llama2)](https://github.com/s0d-d/qna-chatbot)
