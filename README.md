@@ -15,3 +15,6 @@ Skills:
 
 Projects:
   - [Chatbot with custom knowledge (RAG system using llama2)](https://github.com/s0d-d/qna-chatbot)
+
+Contact: 
+  - [LinkedIn](https://www.linkedin.com/in/sod-erdene-dalaikhuu-b175361b7/)
