@@ -3,11 +3,11 @@
 #### Developer / CS Student at [ELTE](https://www.elte.hu/en/)<br>
 
 Interests: 
-  - MLOps, Deep Learning, Generative AI
+  - AI
 
 Skills:
   - Front-end (React.js, Next.js)
-  - Back-end (Node.js, Python, Java)
+  - Back-end (Node.js, Go, Java)
   - Databases (MongoDB)
   - DevOps (Docker, Kubernetes, Linux, Git)
   - Networking (Asterisk)
